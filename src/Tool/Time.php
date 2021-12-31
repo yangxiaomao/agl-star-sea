@@ -1,6 +1,6 @@
 <?php
 
-namespace Agl\StarSea\Tool;
+namespace Yangxm\StarSea\Tool;
 
 class Time
 {

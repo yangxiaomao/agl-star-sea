@@ -1,10 +1,10 @@
 {
-    "name": "agl/star-sea",
+    "name": "Yangxm/star-sea",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Agl\\StarSea\\": "src/"
+            "Yangxm\\StarSea\\": "src/"
         }
     },
     "authors": [
